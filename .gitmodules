@@ -1,0 +1,6 @@
+[submodule "drone_forum"]
+	path = drone_forum
+	url = git@github.com:rybla/drone_forum.git
+[submodule "fpv_drone_sim_for_browser"]
+	path = fpv_drone_sim_for_browser
+	url = git@github.com:rybla/fpv_drone_sim_for_browser.git
